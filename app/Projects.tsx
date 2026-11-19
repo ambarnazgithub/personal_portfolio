@@ -61,7 +61,7 @@ const projects = [
       "3-Tier Clinical Urgency Classification (Emergency, Doctor Visit, Home Care)",
       "Persistent Health Checkup History with Full MongoDB CRUD Operations"
     ],
-    image: "/projects/sehat_sathi.PNG", 
+    image: "/projects/sehat_sathi.png", 
     liveDemo: "https://sehat-sathi-frontend-three.vercel.app/", 
   },
 
